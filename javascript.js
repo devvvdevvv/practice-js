@@ -8,3 +8,5 @@ function whoAmI (myFname, myLname, myAge) {
         and I'm ${myAge} years old.
     `);
 }
+
+whoAmI(fname, lname, age);
